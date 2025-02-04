@@ -2,5 +2,4 @@
 This is a project assignment for The Odin Project
 
 ##Features
-will be added
-
+3 pages containing 3 recipes, created using HTML
